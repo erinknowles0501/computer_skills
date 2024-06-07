@@ -1,17 +1,23 @@
 ** Going to have to remember mobile devices!
+
+- printing
+- emailing
+- social media
+- zoom/skype/etc
+- basic terminology they might come across + reminder to google things
+- basic troubleshooting
+- antivirus, scams+phishing, secure passwords
+- data backups
+- downloading and managing apps (and how to limit their permissions) (also mention fdroid)
+- free alternatives to the software you've heard about
+- dangers of screen time for children
+- buy things online
+- torrenting
+- games
 ### Introduction
 What this is for, how it works, expectations, who I am
-This guide assumes you know a computer is a machine that you interact with using a mouse and keyboard, and no more. That said, there's probably useful stuff in this guide even for young people who are pretty savvy - and if you're really savvy, you can contribute by making a pull request on github.
+This guide assumes you know a computer is a machine that you interact with using a mouse and keyboard, that a smart phone is a small computer, and that the internet connects computers so that computers and their users can talk to each other. That said, there's useful stuff in this guide even for teens+adults who are pretty savvy - and if you're really savvy, you can contribute by making a pull request on github: 
 
-### Quick basics to get you started
- - How to connect to the internet (troubleshooting?)
- - What is a computer program, what is a browser, how to open it, how to use it (where url bar is and how it works, bookmarks, history)
- - (Mention that your internet provider probably isn't looking, but it's technically possible for them to see what pages you look at - which means if you search for "pictures of cute puppies" they'll see that you searched for that. Also, the browser's history will contain that you searched for that, unless you delete it, and might also show up in "recently searched")
- - Briefly what a search engine is and basics of how to use it (link to search engines section)
- - Basically impossible to "break" your computer or phone by interacting with it
- - If you don't understand something I've mentioned, or want more information, you can google it to find out
- - How signing up for something works (email, password) and what to look out for
- - How to email and use social media (and what to look out for)
 
 ### Social media
  - "Don't compare your life to someone else's highlight reel"
@@ -28,6 +34,7 @@ This guide assumes you know a computer is a machine that you interact with using
  - mention deepfakes
  - mention how quickly this is changing and being developed - give Midjourney example of "obviously generated" to "indistinguishable" in one year
  - mention chatgpt
+ - explain basics of language models - it's just saying the most likely string of words, it doesn't "know" anything and can therefore be wrong (lie/hallucinate)
 
 ### Programming
 - Computers and cell phones and apps and websites (and, these days, probably your fridge, your tv, and your car) have been programmed using code, which is like a language that humans use to tell computers how to work. It might look a little like this:
@@ -40,7 +47,22 @@ Anyone can learn computer programming, including you!! There are dozens of reall
 
 
 ### Websites of note
-- Youtube - watch and upload videos.
-- Reddit - read and talk about specific topics - there are subreddits for knitting, fishing, 
+- **Youtube** - upload videos, watch videos on basically any topic. Especially useful for:
+	- learning small specific things, like for example "how to change the drum belt on my 2013 LG clothes dryer".
+	- Finding and playing music - has music videos for basically everything
+- Reddit - read and talk about specific topics - there are forums for knitting, fishing, gardening, music, basically anything
+- **Libgen** and **Anna's Archive** - huge libraries of free digital books. Semi-legal.
+- Kijiji
+- KhanAcademy
+\
+### Browser extensions of note
+- Adblock (adblock re youtube)
 
 ### Computer programs of note
+- LibreOffice (free and open source alternative to Microsoft Office - Microsoft Office being the 
+
+### Apps of note
+- Merlin - can recognize birds by their songs
+- Shazam - can recognize a song by a small snippet
+- PlantNet - can recognize plants, trees, and mushrooms by photographs
+- 
